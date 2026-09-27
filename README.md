@@ -105,7 +105,6 @@ If you find this work useful for your research, please consider citing our paper
 @misc{zhang2026dve,
   title        = {Differential Vector Erasure: Unified Training-Free Concept Erasure for Flow Matching Models},
   author       = {Zhang, Zhiqi and Zhong, Xinhao and Sun, Yi and Sun, Shuoyang and Wang, Jiahui and Chen, Bin and Xia, Shu-Tao and Wang, Xuan},
-  year         = {2026},
-  note         = {Under review}
+  year         = {2026}
 }
 ```
