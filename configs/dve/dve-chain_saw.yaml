@@ -1,0 +1,13 @@
+enabled: true
+
+erase_guidance_scale: 3.5
+
+concepts:
+  - name: chain_saw
+    erase_prompt: chain saw
+    anchor_prompt: tool
+    gamma: 3.0
+
+projection:
+  enabled: true
+  threshold: 15.0

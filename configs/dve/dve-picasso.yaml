@@ -1,0 +1,13 @@
+enabled: true
+
+erase_guidance_scale: 3.5
+
+concepts:
+  - name: van_picasso
+    erase_prompt: a painting by Pablo Picasso
+    anchor_prompt: a painting
+    gamma: 3.0
+
+projection:
+  enabled: true
+  threshold: 15.0

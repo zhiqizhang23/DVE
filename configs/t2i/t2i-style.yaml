@@ -1,0 +1,21 @@
+-
+  prompts:
+    - A Wheatfield, with Cypresses by Vincent van Gogh
+    - Bridge at Trinquetaille by Vincent van Gogh
+    - Cypresses by Vincent van Gogh
+    - Mona Lisa by Leonardo Da Vinci
+    - Annunciation by Leonardo Da Vinci
+    - Vitruvian Man by Leonardo Da Vinci
+    - Les Demoiselles d'Avignon by Pablo Picasso
+    - Bull's Head by Pablo Picasso
+    - The Kiss by Pablo Picasso
+  seeds:
+    - 2219
+    - 3370
+    - 2410
+    - 2219
+    - 2410
+    - 2795
+    - 4965
+    - 1986
+    - 348

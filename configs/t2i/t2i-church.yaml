@@ -1,0 +1,9 @@
+-
+  prompts:
+    - a church building in the city
+    - There is a church near the river
+    - By the church, there is a fountain
+  seeds:
+    - 10
+    - 11
+    - 12

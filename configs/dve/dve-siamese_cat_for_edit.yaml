@@ -1,0 +1,13 @@
+enabled: true
+
+erase_guidance_scale: 3.5
+
+concepts:
+  - name: siamese_cat
+    erase_prompt: Siamese cat
+    anchor_prompt: cat
+    gamma: 3.0
+
+projection:
+  enabled: true
+  threshold: 0.0

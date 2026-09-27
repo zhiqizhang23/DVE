@@ -1,0 +1,15 @@
+-
+  exp_name: "FlowEdit_FLUX"
+
+  dataset_yaml: configs/edit/edit-siamese_cat.yaml
+  # dve_yaml: configs/dve/dve-siamese_cat_for_edit.yaml
+
+  model_type: "FLUX"
+
+  T_steps: 28
+  n_avg: 1
+  src_guidance_scale: 1.5
+  tar_guidance_scale: 5.5
+  n_min: 0
+  n_max: 24
+  seed: 10

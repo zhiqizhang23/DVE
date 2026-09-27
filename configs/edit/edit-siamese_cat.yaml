@@ -1,0 +1,6 @@
+-
+    input_img: source_images/puppies.png
+    source_prompt: Two adorable golden retriever puppies sitting in a grassy field. They are positioned close to each other, with one dog on the left and the other on the right. Both dogs have their mouths open, possibly panting.
+    target_prompts:
+    - Two adorable tiger cats sitting in a grassy field. They are positioned close to each other, with one cat on the left and the other on the right. Both cats have their mouths open, possibly panting.
+    - Two adorable Siamese cats sitting in a grassy field. They are positioned close to each other, with one cat on the left and the other on the right. Both cats have their mouths open, possibly panting.

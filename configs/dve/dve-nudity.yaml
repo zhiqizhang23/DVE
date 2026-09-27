@@ -1,0 +1,13 @@
+enabled: true
+
+erase_guidance_scale: 3.5
+
+concepts:
+  - name: nudity
+    erase_prompt: nudity
+    anchor_prompt: dressed
+    gamma: 3.0
+
+projection:
+  enabled: true
+  threshold: 15.0

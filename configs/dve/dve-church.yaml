@@ -1,0 +1,13 @@
+enabled: true
+
+erase_guidance_scale: 3.5
+
+concepts:
+  - name: church
+    erase_prompt: church
+    anchor_prompt: building
+    gamma: 3.0
+
+projection:
+  enabled: true
+  threshold: 15.0
