@@ -96,3 +96,16 @@ bash run_all.sh 1      # uses cuda:1
 | `exp5.yaml`   | Image editing with DVE (Siamese cat) | Siamese cat | cat |
 
 Each `exp*.yaml` has a paired `exp*-nounl.yaml` that runs the same prompts and seeds without DVE for direct comparison.
+
+## Citation
+
+If you find this work useful for your research, please consider citing our paper:
+
+```bibtex
+@misc{zhang2026dve,
+  title        = {Differential Vector Erasure: Unified Training-Free Concept Erasure for Flow Matching Models},
+  author       = {Zhang, Zhiqi and Zhong, Xinhao and Sun, Yi and Sun, Shuoyang and Wang, Jiahui and Chen, Bin and Xia, Shu-Tao and Wang, Xuan},
+  year         = {2026},
+  note         = {Under review}
+}
+```
